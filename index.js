@@ -202,7 +202,7 @@ app.post('/webhook/', function (req, res) {
                         var extServeroptionspost = {
                             host: '202.89.107.58',
                             port: '80',
-                            path: '/BOTAPI/api/botmesg',
+                            path: '/BOTAPI/api/BotMesg1',
                             method: 'POST',
                             headers: {
                                 'Content-Type': 'application/json',
